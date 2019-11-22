@@ -1,0 +1,361 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/hsx/One-Social-H5/config/config.default.js"
+  },
+  "view": {
+    "cache": "/Users/hsx/One-Social-H5/node_modules/egg-view/config/config.local.js",
+    "root": "/Users/hsx/One-Social-H5/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/hsx/One-Social-H5/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/hsx/One-Social-H5/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/Users/hsx/One-Social-H5/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/Users/hsx/One-Social-H5/config/config.default.js",
+      "runInNewContext": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "doctype": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "viewEngine": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/hsx/One-Social-H5/config/config.default.js",
+    "dir": "/Users/hsx/One-Social-H5/config/config.default.js",
+    "encoding": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "env": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "level": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/hsx/One-Social-H5/config/config.default.js",
+    "dir": "/Users/hsx/One-Social-H5/config/config.default.js",
+    "maxAge": "/Users/hsx/One-Social-H5/config/config.local.js",
+    "dynamic": "/Users/hsx/One-Social-H5/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/hsx/One-Social-H5/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/hsx/One-Social-H5/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/hsx/One-Social-H5/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/Users/hsx/One-Social-H5/config/config.default.js",
+  "middleware": "/Users/hsx/One-Social-H5/config/config.default.js",
+  "baseUrl": "/Users/hsx/One-Social-H5/config/config.default.js",
+  "development": {
+    "watchDirs": "/Users/hsx/One-Social-H5/config/config.local.js",
+    "ignoreDirs": "/Users/hsx/One-Social-H5/config/config.local.js",
+    "fastReady": "/Users/hsx/One-Social-H5/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/hsx/One-Social-H5/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/hsx/One-Social-H5/node_modules/egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/hsx/One-Social-H5/config/config.local.js",
+    "prefix": "/Users/hsx/One-Social-H5/node_modules/egg-logview/config/config.default.js",
+    "staticHost": "/Users/hsx/One-Social-H5/node_modules/egg-logview/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/hsx/One-Social-H5/config/config.local.js",
+    "protocolWhiteList": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/hsx/One-Social-H5/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/hsx/One-Social-H5/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/hsx/One-Social-H5/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/hsx/One-Social-H5/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/hsx/One-Social-H5/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/hsx/One-Social-H5/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/hsx/One-Social-H5/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/hsx/One-Social-H5/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/hsx/One-Social-H5/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/hsx/One-Social-H5/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/hsx/One-Social-H5/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/hsx/One-Social-H5/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/hsx/One-Social-H5/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/hsx/One-Social-H5/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/hsx/One-Social-H5/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/hsx/One-Social-H5/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/hsx/One-Social-H5/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/hsx/One-Social-H5/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/hsx/One-Social-H5/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/hsx/One-Social-H5/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/hsx/One-Social-H5/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/hsx/One-Social-H5/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/hsx/One-Social-H5/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/hsx/One-Social-H5/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/hsx/One-Social-H5/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "cors": "/Users/hsx/One-Social-H5/node_modules/egg-cors/config/config.default.js",
+  "webpack": {
+    "port": "/Users/hsx/One-Social-H5/node_modules/egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/Users/hsx/One-Social-H5/node_modules/egg-webpack/config/config.default.js",
+      "match": "/Users/hsx/One-Social-H5/node_modules/egg-webpack/config/config.default.js"
+    },
+    "webpackConfigList": "/Users/hsx/One-Social-H5/node_modules/egg-webpack/config/config.default.js"
+  },
+  "env": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "name": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "version": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "description": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "debug": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "clean": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "build": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "start": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "dev": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "lint": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "fix": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "ii": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-logger": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "element-ui": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "extend": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "mint-ui": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "moment": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "vue": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "autoprefixer": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "babel-plugin-syntax-dynamic-import": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "babel-preset-env": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "easywebpack-vue": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-logview": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "ip": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "less": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "sass-loader": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "vconsole": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "url": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "license": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "strict": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "depth": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "logging": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "port": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/hsx/One-Social-H5/node_modules/egg/config/config.default.js"
+}

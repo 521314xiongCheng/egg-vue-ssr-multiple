@@ -1,0 +1,192 @@
+2019-11-12 17:52:21,029 INFO 8396 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38258980ms at 2019-11-13 04:30:00.009
+2019-11-12 17:52:21,030 INFO 8396 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22058970ms at 2019-11-13 00:00:00.000
+2019-11-12 17:52:21,031 INFO 8396 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22059970ms at 2019-11-13 00:00:01.001
+2019-11-12 17:52:20,857 INFO 8397 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-12 17:52:20,857 INFO 8397 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-12 17:52:20,857 INFO 8397 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 11:22:32,560 INFO 2638 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 11:22:32,560 INFO 2638 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-14 11:22:32,560 INFO 2638 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 11:22:32,739 INFO 2636 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61647268ms at 2019-11-15 04:30:00.007
+2019-11-14 11:22:32,739 INFO 2636 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45447261ms at 2019-11-15 00:00:00.000
+2019-11-14 11:22:32,740 INFO 2636 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45448261ms at 2019-11-15 00:00:01.001
+2019-11-14 11:23:29,883 INFO 2693 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 11:23:29,883 INFO 2693 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-14 11:23:29,883 INFO 2693 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:00:32,300 INFO 11838 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41367705ms at 2019-11-22 04:30:00.004
+2019-11-21 17:00:32,300 INFO 11838 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25167700ms at 2019-11-22 00:00:00.000
+2019-11-21 17:00:32,300 INFO 11838 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25168700ms at 2019-11-22 00:00:01.000
+2019-11-21 17:00:32,113 INFO 11839 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:00:32,113 INFO 11839 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:00:32,113 INFO 11839 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:06:11,712 INFO 12003 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:06:11,712 INFO 12003 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:06:11,712 INFO 12003 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:06:51,717 INFO 12025 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:06:51,717 INFO 12025 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:06:51,717 INFO 12025 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:08:25,934 INFO 12057 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:08:25,934 INFO 12057 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:08:25,934 INFO 12057 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:10:25,489 INFO 12111 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:10:25,489 INFO 12111 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:10:25,489 INFO 12111 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:14:14,725 INFO 12179 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40545279ms at 2019-11-22 04:30:00.004
+2019-11-21 17:14:14,725 INFO 12179 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24345275ms at 2019-11-22 00:00:00.000
+2019-11-21 17:14:14,726 INFO 12179 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24346275ms at 2019-11-22 00:00:01.000
+2019-11-21 17:14:14,551 INFO 12183 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:14:14,551 INFO 12183 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:14:14,551 INFO 12183 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:19:51,427 INFO 12347 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:19:51,427 INFO 12347 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:19:51,428 INFO 12347 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:20:20,715 INFO 12372 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:20:20,715 INFO 12372 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:20:20,715 INFO 12372 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:21:57,319 INFO 12404 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:21:57,319 INFO 12404 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:21:57,319 INFO 12404 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:24:16,869 INFO 12508 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39943135ms at 2019-11-22 04:30:00.004
+2019-11-21 17:24:16,870 INFO 12508 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23743131ms at 2019-11-22 00:00:00.001
+2019-11-21 17:24:16,870 INFO 12508 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23744130ms at 2019-11-22 00:00:01.000
+2019-11-21 17:24:16,693 INFO 12512 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:24:16,693 INFO 12512 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:24:16,693 INFO 12512 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:25:57,423 INFO 12569 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:25:57,423 INFO 12569 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:25:57,423 INFO 12569 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:26:03,769 INFO 12587 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:26:03,769 INFO 12587 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:26:03,769 INFO 12587 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:26:39,760 INFO 12616 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:26:39,763 INFO 12616 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:26:39,763 INFO 12616 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:26:53,275 INFO 12635 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:26:53,275 INFO 12635 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:26:53,275 INFO 12635 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:27:04,252 INFO 12659 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39775752ms at 2019-11-22 04:30:00.004
+2019-11-21 17:27:04,253 INFO 12659 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23575747ms at 2019-11-22 00:00:00.000
+2019-11-21 17:27:04,253 INFO 12659 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23576747ms at 2019-11-22 00:00:01.000
+2019-11-21 17:27:04,122 INFO 12663 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:27:04,122 INFO 12663 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:27:04,122 INFO 12663 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:32:06,202 INFO 12817 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39473803ms at 2019-11-22 04:30:00.005
+2019-11-21 17:32:06,203 INFO 12817 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23273798ms at 2019-11-22 00:00:00.001
+2019-11-21 17:32:06,203 INFO 12817 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23274797ms at 2019-11-22 00:00:01.000
+2019-11-21 17:32:06,065 INFO 12821 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:32:06,065 INFO 12821 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:32:06,065 INFO 12821 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:37:42,065 INFO 12990 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:37:42,065 INFO 12990 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:37:42,065 INFO 12990 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:38:03,596 INFO 13011 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:38:03,596 INFO 13011 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:38:03,596 INFO 13011 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:38:21,889 INFO 13049 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:38:21,889 INFO 13049 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:38:21,889 INFO 13049 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:38:30,267 INFO 13065 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39089739ms at 2019-11-22 04:30:00.005
+2019-11-21 17:38:30,267 INFO 13065 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22889733ms at 2019-11-22 00:00:00.000
+2019-11-21 17:38:30,268 INFO 13065 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22890733ms at 2019-11-22 00:00:01.001
+2019-11-21 17:38:30,143 INFO 13069 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:38:30,143 INFO 13069 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:38:30,143 INFO 13069 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:39:38,932 INFO 13122 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:39:38,932 INFO 13122 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:39:38,932 INFO 13122 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:39:59,877 INFO 13157 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39000130ms at 2019-11-22 04:30:00.007
+2019-11-21 17:39:59,878 INFO 13157 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22800122ms at 2019-11-22 00:00:00.000
+2019-11-21 17:39:59,878 INFO 13157 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22801122ms at 2019-11-22 00:00:01.000
+2019-11-21 17:39:59,755 INFO 13169 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:39:59,755 INFO 13169 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:39:59,755 INFO 13169 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:43:23,476 INFO 13243 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38796530ms at 2019-11-22 04:30:00.006
+2019-11-21 17:43:23,476 INFO 13243 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22596524ms at 2019-11-22 00:00:00.000
+2019-11-21 17:43:23,477 INFO 13243 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22597523ms at 2019-11-22 00:00:01.000
+2019-11-21 17:43:23,314 INFO 13255 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:43:23,314 INFO 13255 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:43:23,314 INFO 13255 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:46:25,775 INFO 13328 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:46:25,775 INFO 13328 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:46:25,775 INFO 13328 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:46:38,051 INFO 13354 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38601955ms at 2019-11-22 04:30:00.006
+2019-11-21 17:46:38,051 INFO 13354 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22401949ms at 2019-11-22 00:00:00.000
+2019-11-21 17:46:38,052 INFO 13354 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22402949ms at 2019-11-22 00:00:01.001
+2019-11-21 17:46:37,833 INFO 13366 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:46:37,833 INFO 13366 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:46:37,833 INFO 13366 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:48:13,450 INFO 13423 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:48:13,450 INFO 13423 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:48:13,450 INFO 13423 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:48:25,931 INFO 13458 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38494072ms at 2019-11-22 04:30:00.003
+2019-11-21 17:48:25,932 INFO 13458 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22294068ms at 2019-11-22 00:00:00.000
+2019-11-21 17:48:25,932 INFO 13458 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22295068ms at 2019-11-22 00:00:01.000
+2019-11-21 17:48:25,776 INFO 13462 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:48:25,777 INFO 13462 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:48:25,777 INFO 13462 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:49:10,989 INFO 13505 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:49:10,989 INFO 13505 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:49:10,989 INFO 13505 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:55:30,933 INFO 13596 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38069071ms at 2019-11-22 04:30:00.004
+2019-11-21 17:55:30,933 INFO 13596 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21869067ms at 2019-11-22 00:00:00.000
+2019-11-21 17:55:30,933 INFO 13596 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21870067ms at 2019-11-22 00:00:01.000
+2019-11-21 17:55:30,748 INFO 13600 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:55:30,748 INFO 13600 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:55:30,748 INFO 13600 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:59:05,530 INFO 13661 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:59:05,530 INFO 13661 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:59:05,530 INFO 13661 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 17:59:28,494 INFO 13681 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 17:59:28,494 INFO 13681 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 17:59:28,494 INFO 13681 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:00:31,257 INFO 13759 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:00:31,257 INFO 13759 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:00:31,257 INFO 13759 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:00:31,442 INFO 13758 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37768564ms at 2019-11-22 04:30:00.005
+2019-11-21 18:00:31,443 INFO 13758 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21568558ms at 2019-11-22 00:00:00.001
+2019-11-21 18:00:31,443 INFO 13758 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21569557ms at 2019-11-22 00:00:01.000
+2019-11-21 18:01:31,651 INFO 13851 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37708352ms at 2019-11-22 04:30:00.003
+2019-11-21 18:01:31,652 INFO 13851 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21508349ms at 2019-11-22 00:00:00.001
+2019-11-21 18:01:31,652 INFO 13851 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21509348ms at 2019-11-22 00:00:01.000
+2019-11-21 18:01:31,459 INFO 13852 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:01:31,459 INFO 13852 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:01:31,459 INFO 13852 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:06:13,086 INFO 14023 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:06:13,086 INFO 14023 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:06:13,086 INFO 14023 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:06:46,863 INFO 14046 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:06:46,863 INFO 14046 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:06:46,863 INFO 14046 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:33:06,685 INFO 14468 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35813325ms at 2019-11-22 04:30:00.010
+2019-11-21 18:33:06,686 INFO 14468 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19613315ms at 2019-11-22 00:00:00.001
+2019-11-21 18:33:06,687 INFO 14468 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19614313ms at 2019-11-22 00:00:01.000
+2019-11-21 18:33:06,468 INFO 14469 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:33:06,468 INFO 14469 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:33:06,468 INFO 14469 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:34:23,158 INFO 14526 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:34:23,158 INFO 14526 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:34:23,158 INFO 14526 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:34:42,258 INFO 14576 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:34:42,258 INFO 14576 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:34:42,258 INFO 14576 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:34:42,610 INFO 14571 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35717400ms at 2019-11-22 04:30:00.010
+2019-11-21 18:34:42,610 INFO 14571 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19517390ms at 2019-11-22 00:00:00.000
+2019-11-21 18:34:42,612 INFO 14571 [Timer] /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19518389ms at 2019-11-22 00:00:01.000
+2019-11-21 18:35:35,991 INFO 14650 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:35:35,991 INFO 14650 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:35:35,991 INFO 14650 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:35:38,909 INFO 14662 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:35:38,909 INFO 14662 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:35:38,909 INFO 14662 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:37:26,484 INFO 14693 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:37:26,484 INFO 14693 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:37:26,484 INFO 14693 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:38:00,763 INFO 14714 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:38:00,763 INFO 14714 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:38:00,763 INFO 14714 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:38:11,778 INFO 14732 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:38:11,778 INFO 14732 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:38:11,778 INFO 14732 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-21 18:38:25,774 INFO 14750 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-21 18:38:25,774 INFO 14750 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-21 18:38:25,774 INFO 14750 [egg-schedule]: register schedule /Users/hsx/One-Social-H5/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

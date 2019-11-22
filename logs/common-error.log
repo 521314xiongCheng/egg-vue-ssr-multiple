@@ -1,0 +1,206 @@
+2019-11-21 17:18:29,865 ERROR 12183 [demoSpa/index.js] server render bundle error, try client render, the server render error TypeError: options.router.push is not a function
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+    at new Promise (<anonymous>)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9353:14
+    at Object.renderToString (/Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9529:9)
+    at Promise (/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/lib/engine.js:123:62)
+    at new Promise (<anonymous>)
+    at Engine.render (/Users/hsx/One-Social-H5/node_modules/egg-view-vue-ssr/lib/engine.js:122:12)
+    at /Users/hsx/One-Social-H5/node_modules/egg-webpack-vue/app.js:22:36
+    at Generator.next (<anonymous>)
+2019-11-21 17:40:15,599 ERROR 13169 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13169
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:55:49,490 ERROR 13600 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13600
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:56:04,707 ERROR 13600 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13600
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:56:10,888 ERROR 13600 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13600
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:06:50,111 ERROR 14046 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14046
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:14:48,007 ERROR 14046 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14046
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:33:25,599 ERROR 14469 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14469
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:34:24,772 ERROR 14526 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14526
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:35:10,045 ERROR 14576 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14576
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:35:44,111 ERROR 14662 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14662
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:38:04,250 ERROR 14714 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14714
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:38:15,041 ERROR 14732 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14732
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:38:30,160 ERROR 14750 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14750
+hostname: hsxdeMacBook-Pro-2.local
+

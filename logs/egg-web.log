@@ -1,0 +1,853 @@
+2019-11-12 17:52:20,828 INFO 8397 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-12 17:52:20,858 INFO 8397 [egg-multipart] stream mode enable
+2019-11-12 17:52:20,938 INFO 8397 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-12 17:52:20,941 INFO 8397 [egg-security] use csrf middleware
+2019-11-12 17:52:20,942 INFO 8397 [egg-security] use methodnoallow middleware
+2019-11-12 17:52:20,943 INFO 8397 [egg-security] use noopen middleware
+2019-11-12 17:52:20,944 INFO 8397 [egg-security] use nosniff middleware
+2019-11-12 17:52:20,945 INFO 8397 [egg-security] use xssProtection middleware
+2019-11-12 17:52:20,946 INFO 8397 [egg-security] use xframe middleware
+2019-11-12 17:52:20,947 INFO 8397 [egg-security] use dta middleware
+2019-11-12 17:52:20,947 INFO 8397 [egg-security] compose 7 middlewares into one security middleware
+2019-11-12 17:52:20,966 INFO 8397 [egg:core] dump config after load, 11ms
+2019-11-12 17:52:21,004 INFO 8397 [egg-watcher:application] watcher start success
+2019-11-12 17:52:21,015 INFO 8397 [egg:core] dump config after ready, 7ms
+2019-11-14 11:22:32,532 INFO 2638 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-14 11:22:32,561 INFO 2638 [egg-multipart] stream mode enable
+2019-11-14 11:22:32,644 INFO 2638 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-14 11:22:32,648 INFO 2638 [egg-security] use csrf middleware
+2019-11-14 11:22:32,649 INFO 2638 [egg-security] use methodnoallow middleware
+2019-11-14 11:22:32,651 INFO 2638 [egg-security] use noopen middleware
+2019-11-14 11:22:32,652 INFO 2638 [egg-security] use nosniff middleware
+2019-11-14 11:22:32,653 INFO 2638 [egg-security] use xssProtection middleware
+2019-11-14 11:22:32,654 INFO 2638 [egg-security] use xframe middleware
+2019-11-14 11:22:32,655 INFO 2638 [egg-security] use dta middleware
+2019-11-14 11:22:32,655 INFO 2638 [egg-security] compose 7 middlewares into one security middleware
+2019-11-14 11:22:32,686 INFO 2638 [egg:core] dump config after load, 24ms
+2019-11-14 11:22:32,715 INFO 2638 [egg-watcher:application] watcher start success
+2019-11-14 11:22:32,728 INFO 2638 [egg:core] dump config after ready, 8ms
+2019-11-14 11:23:29,803 INFO 2693 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-14 11:23:29,884 INFO 2693 [egg-multipart] stream mode enable
+2019-11-14 11:23:30,047 INFO 2693 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-14 11:23:30,049 INFO 2693 [egg-security] use csrf middleware
+2019-11-14 11:23:30,051 INFO 2693 [egg-security] use methodnoallow middleware
+2019-11-14 11:23:30,052 INFO 2693 [egg-security] use noopen middleware
+2019-11-14 11:23:30,053 INFO 2693 [egg-security] use nosniff middleware
+2019-11-14 11:23:30,053 INFO 2693 [egg-security] use xssProtection middleware
+2019-11-14 11:23:30,054 INFO 2693 [egg-security] use xframe middleware
+2019-11-14 11:23:30,055 INFO 2693 [egg-security] use dta middleware
+2019-11-14 11:23:30,055 INFO 2693 [egg-security] compose 7 middlewares into one security middleware
+2019-11-14 11:23:30,090 INFO 2693 [egg:core] dump config after load, 25ms
+2019-11-14 11:23:30,124 INFO 2693 [egg-watcher:application] watcher start success
+2019-11-14 11:23:30,138 INFO 2693 [egg:core] dump config after ready, 11ms
+2019-11-21 17:00:32,081 INFO 11839 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:00:32,114 INFO 11839 [egg-multipart] stream mode enable
+2019-11-21 17:00:32,194 INFO 11839 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:00:32,201 INFO 11839 [egg-security] use csrf middleware
+2019-11-21 17:00:32,202 INFO 11839 [egg-security] use methodnoallow middleware
+2019-11-21 17:00:32,203 INFO 11839 [egg-security] use noopen middleware
+2019-11-21 17:00:32,204 INFO 11839 [egg-security] use nosniff middleware
+2019-11-21 17:00:32,205 INFO 11839 [egg-security] use xssProtection middleware
+2019-11-21 17:00:32,206 INFO 11839 [egg-security] use xframe middleware
+2019-11-21 17:00:32,207 INFO 11839 [egg-security] use dta middleware
+2019-11-21 17:00:32,207 INFO 11839 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:00:32,237 INFO 11839 [egg:core] dump config after load, 14ms
+2019-11-21 17:00:32,271 INFO 11839 [egg-watcher:application] watcher start success
+2019-11-21 17:00:32,291 INFO 11839 [egg:core] dump config after ready, 17ms
+2019-11-21 17:06:11,673 INFO 12003 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:06:11,713 INFO 12003 [egg-multipart] stream mode enable
+2019-11-21 17:06:11,795 INFO 12003 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:06:11,798 INFO 12003 [egg-security] use csrf middleware
+2019-11-21 17:06:11,799 INFO 12003 [egg-security] use methodnoallow middleware
+2019-11-21 17:06:11,799 INFO 12003 [egg-security] use noopen middleware
+2019-11-21 17:06:11,800 INFO 12003 [egg-security] use nosniff middleware
+2019-11-21 17:06:11,801 INFO 12003 [egg-security] use xssProtection middleware
+2019-11-21 17:06:11,802 INFO 12003 [egg-security] use xframe middleware
+2019-11-21 17:06:11,802 INFO 12003 [egg-security] use dta middleware
+2019-11-21 17:06:11,802 INFO 12003 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:06:11,828 INFO 12003 [egg:core] dump config after load, 17ms
+2019-11-21 17:06:11,858 INFO 12003 [egg-watcher:application] watcher start success
+2019-11-21 17:06:11,872 INFO 12003 [egg:core] dump config after ready, 9ms
+2019-11-21 17:06:51,682 INFO 12025 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:06:51,718 INFO 12025 [egg-multipart] stream mode enable
+2019-11-21 17:06:51,797 INFO 12025 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:06:51,800 INFO 12025 [egg-security] use csrf middleware
+2019-11-21 17:06:51,801 INFO 12025 [egg-security] use methodnoallow middleware
+2019-11-21 17:06:51,801 INFO 12025 [egg-security] use noopen middleware
+2019-11-21 17:06:51,802 INFO 12025 [egg-security] use nosniff middleware
+2019-11-21 17:06:51,803 INFO 12025 [egg-security] use xssProtection middleware
+2019-11-21 17:06:51,804 INFO 12025 [egg-security] use xframe middleware
+2019-11-21 17:06:51,805 INFO 12025 [egg-security] use dta middleware
+2019-11-21 17:06:51,805 INFO 12025 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:06:51,823 INFO 12025 [egg:core] dump config after load, 10ms
+2019-11-21 17:06:51,847 INFO 12025 [egg-watcher:application] watcher start success
+2019-11-21 17:06:51,861 INFO 12025 [egg:core] dump config after ready, 9ms
+2019-11-21 17:08:25,899 INFO 12057 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:08:25,935 INFO 12057 [egg-multipart] stream mode enable
+2019-11-21 17:08:26,043 INFO 12057 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:08:26,046 INFO 12057 [egg-security] use csrf middleware
+2019-11-21 17:08:26,047 INFO 12057 [egg-security] use methodnoallow middleware
+2019-11-21 17:08:26,048 INFO 12057 [egg-security] use noopen middleware
+2019-11-21 17:08:26,049 INFO 12057 [egg-security] use nosniff middleware
+2019-11-21 17:08:26,050 INFO 12057 [egg-security] use xssProtection middleware
+2019-11-21 17:08:26,051 INFO 12057 [egg-security] use xframe middleware
+2019-11-21 17:08:26,051 INFO 12057 [egg-security] use dta middleware
+2019-11-21 17:08:26,051 INFO 12057 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:08:26,092 INFO 12057 [egg:core] dump config after load, 26ms
+2019-11-21 17:08:26,127 INFO 12057 [egg-watcher:application] watcher start success
+2019-11-21 17:08:26,139 INFO 12057 [egg:core] dump config after ready, 8ms
+2019-11-21 17:10:25,444 INFO 12111 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:10:25,492 INFO 12111 [egg-multipart] stream mode enable
+2019-11-21 17:10:25,579 INFO 12111 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:10:25,584 INFO 12111 [egg-security] use csrf middleware
+2019-11-21 17:10:25,586 INFO 12111 [egg-security] use methodnoallow middleware
+2019-11-21 17:10:25,587 INFO 12111 [egg-security] use noopen middleware
+2019-11-21 17:10:25,588 INFO 12111 [egg-security] use nosniff middleware
+2019-11-21 17:10:25,588 INFO 12111 [egg-security] use xssProtection middleware
+2019-11-21 17:10:25,589 INFO 12111 [egg-security] use xframe middleware
+2019-11-21 17:10:25,590 INFO 12111 [egg-security] use dta middleware
+2019-11-21 17:10:25,590 INFO 12111 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:10:25,637 INFO 12111 [egg:core] dump config after load, 22ms
+2019-11-21 17:10:25,673 INFO 12111 [egg-watcher:application] watcher start success
+2019-11-21 17:10:25,688 INFO 12111 [egg:core] dump config after ready, 10ms
+2019-11-21 17:14:14,522 INFO 12183 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:14:14,551 INFO 12183 [egg-multipart] stream mode enable
+2019-11-21 17:14:14,631 INFO 12183 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:14:14,634 INFO 12183 [egg-security] use csrf middleware
+2019-11-21 17:14:14,635 INFO 12183 [egg-security] use methodnoallow middleware
+2019-11-21 17:14:14,636 INFO 12183 [egg-security] use noopen middleware
+2019-11-21 17:14:14,637 INFO 12183 [egg-security] use nosniff middleware
+2019-11-21 17:14:14,637 INFO 12183 [egg-security] use xssProtection middleware
+2019-11-21 17:14:14,638 INFO 12183 [egg-security] use xframe middleware
+2019-11-21 17:14:14,639 INFO 12183 [egg-security] use dta middleware
+2019-11-21 17:14:14,639 INFO 12183 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:14:14,662 INFO 12183 [egg:core] dump config after load, 13ms
+2019-11-21 17:14:14,691 INFO 12183 [egg-watcher:application] watcher start success
+2019-11-21 17:14:14,710 INFO 12183 [egg:core] dump config after ready, 15ms
+2019-11-21 17:19:51,385 INFO 12347 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:19:51,428 INFO 12347 [egg-multipart] stream mode enable
+2019-11-21 17:19:51,511 INFO 12347 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:19:51,514 INFO 12347 [egg-security] use csrf middleware
+2019-11-21 17:19:51,515 INFO 12347 [egg-security] use methodnoallow middleware
+2019-11-21 17:19:51,516 INFO 12347 [egg-security] use noopen middleware
+2019-11-21 17:19:51,517 INFO 12347 [egg-security] use nosniff middleware
+2019-11-21 17:19:51,518 INFO 12347 [egg-security] use xssProtection middleware
+2019-11-21 17:19:51,519 INFO 12347 [egg-security] use xframe middleware
+2019-11-21 17:19:51,520 INFO 12347 [egg-security] use dta middleware
+2019-11-21 17:19:51,520 INFO 12347 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:19:51,547 INFO 12347 [egg:core] dump config after load, 17ms
+2019-11-21 17:19:51,578 INFO 12347 [egg-watcher:application] watcher start success
+2019-11-21 17:19:51,595 INFO 12347 [egg:core] dump config after ready, 12ms
+2019-11-21 17:20:20,648 INFO 12372 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:20:20,716 INFO 12372 [egg-multipart] stream mode enable
+2019-11-21 17:20:20,803 INFO 12372 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:20:20,810 INFO 12372 [egg-security] use csrf middleware
+2019-11-21 17:20:20,811 INFO 12372 [egg-security] use methodnoallow middleware
+2019-11-21 17:20:20,811 INFO 12372 [egg-security] use noopen middleware
+2019-11-21 17:20:20,812 INFO 12372 [egg-security] use nosniff middleware
+2019-11-21 17:20:20,813 INFO 12372 [egg-security] use xssProtection middleware
+2019-11-21 17:20:20,813 INFO 12372 [egg-security] use xframe middleware
+2019-11-21 17:20:20,813 INFO 12372 [egg-security] use dta middleware
+2019-11-21 17:20:20,813 INFO 12372 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:20:20,844 INFO 12372 [egg:core] dump config after load, 16ms
+2019-11-21 17:20:20,902 INFO 12372 [egg-watcher:application] watcher start success
+2019-11-21 17:20:20,941 INFO 12372 [egg:core] dump config after ready, 25ms
+2019-11-21 17:21:57,286 INFO 12404 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:21:57,319 INFO 12404 [egg-multipart] stream mode enable
+2019-11-21 17:21:57,394 INFO 12404 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:21:57,397 INFO 12404 [egg-security] use csrf middleware
+2019-11-21 17:21:57,398 INFO 12404 [egg-security] use methodnoallow middleware
+2019-11-21 17:21:57,398 INFO 12404 [egg-security] use noopen middleware
+2019-11-21 17:21:57,399 INFO 12404 [egg-security] use nosniff middleware
+2019-11-21 17:21:57,400 INFO 12404 [egg-security] use xssProtection middleware
+2019-11-21 17:21:57,401 INFO 12404 [egg-security] use xframe middleware
+2019-11-21 17:21:57,402 INFO 12404 [egg-security] use dta middleware
+2019-11-21 17:21:57,402 INFO 12404 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:21:57,420 INFO 12404 [egg:core] dump config after load, 9ms
+2019-11-21 17:21:57,443 INFO 12404 [egg-watcher:application] watcher start success
+2019-11-21 17:21:57,456 INFO 12404 [egg:core] dump config after ready, 8ms
+2019-11-21 17:24:16,661 INFO 12512 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:24:16,694 INFO 12512 [egg-multipart] stream mode enable
+2019-11-21 17:24:16,775 INFO 12512 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:24:16,778 INFO 12512 [egg-security] use csrf middleware
+2019-11-21 17:24:16,779 INFO 12512 [egg-security] use methodnoallow middleware
+2019-11-21 17:24:16,779 INFO 12512 [egg-security] use noopen middleware
+2019-11-21 17:24:16,780 INFO 12512 [egg-security] use nosniff middleware
+2019-11-21 17:24:16,781 INFO 12512 [egg-security] use xssProtection middleware
+2019-11-21 17:24:16,782 INFO 12512 [egg-security] use xframe middleware
+2019-11-21 17:24:16,783 INFO 12512 [egg-security] use dta middleware
+2019-11-21 17:24:16,783 INFO 12512 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:24:16,805 INFO 12512 [egg:core] dump config after load, 13ms
+2019-11-21 17:24:16,834 INFO 12512 [egg-watcher:application] watcher start success
+2019-11-21 17:24:16,853 INFO 12512 [egg:core] dump config after ready, 14ms
+2019-11-21 17:25:57,380 INFO 12569 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:25:57,424 INFO 12569 [egg-multipart] stream mode enable
+2019-11-21 17:25:57,494 INFO 12569 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:25:57,497 INFO 12569 [egg-security] use csrf middleware
+2019-11-21 17:25:57,498 INFO 12569 [egg-security] use methodnoallow middleware
+2019-11-21 17:25:57,499 INFO 12569 [egg-security] use noopen middleware
+2019-11-21 17:25:57,499 INFO 12569 [egg-security] use nosniff middleware
+2019-11-21 17:25:57,500 INFO 12569 [egg-security] use xssProtection middleware
+2019-11-21 17:25:57,500 INFO 12569 [egg-security] use xframe middleware
+2019-11-21 17:25:57,501 INFO 12569 [egg-security] use dta middleware
+2019-11-21 17:25:57,501 INFO 12569 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:25:57,554 INFO 12569 [egg:core] dump config after load, 34ms
+2019-11-21 17:25:57,597 INFO 12569 [egg-watcher:application] watcher start success
+2019-11-21 17:25:57,610 INFO 12569 [egg:core] dump config after ready, 9ms
+2019-11-21 17:26:03,722 INFO 12587 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:26:03,770 INFO 12587 [egg-multipart] stream mode enable
+2019-11-21 17:26:03,886 INFO 12587 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:26:03,890 INFO 12587 [egg-security] use csrf middleware
+2019-11-21 17:26:03,891 INFO 12587 [egg-security] use methodnoallow middleware
+2019-11-21 17:26:03,891 INFO 12587 [egg-security] use noopen middleware
+2019-11-21 17:26:03,892 INFO 12587 [egg-security] use nosniff middleware
+2019-11-21 17:26:03,893 INFO 12587 [egg-security] use xssProtection middleware
+2019-11-21 17:26:03,893 INFO 12587 [egg-security] use xframe middleware
+2019-11-21 17:26:03,894 INFO 12587 [egg-security] use dta middleware
+2019-11-21 17:26:03,894 INFO 12587 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:26:03,928 INFO 12587 [egg:core] dump config after load, 10ms
+2019-11-21 17:26:03,965 INFO 12587 [egg-watcher:application] watcher start success
+2019-11-21 17:26:04,002 INFO 12587 [egg:core] dump config after ready, 31ms
+2019-11-21 17:26:39,717 INFO 12616 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:26:39,764 INFO 12616 [egg-multipart] stream mode enable
+2019-11-21 17:26:39,803 INFO 12616 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:26:39,806 INFO 12616 [egg-security] use csrf middleware
+2019-11-21 17:26:39,806 INFO 12616 [egg-security] use methodnoallow middleware
+2019-11-21 17:26:39,806 INFO 12616 [egg-security] use noopen middleware
+2019-11-21 17:26:39,807 INFO 12616 [egg-security] use nosniff middleware
+2019-11-21 17:26:39,807 INFO 12616 [egg-security] use xssProtection middleware
+2019-11-21 17:26:39,807 INFO 12616 [egg-security] use xframe middleware
+2019-11-21 17:26:39,808 INFO 12616 [egg-security] use dta middleware
+2019-11-21 17:26:39,808 INFO 12616 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:26:39,835 INFO 12616 [egg:core] dump config after load, 18ms
+2019-11-21 17:26:39,855 INFO 12616 [egg-watcher:application] watcher start success
+2019-11-21 17:26:39,868 INFO 12616 [egg:core] dump config after ready, 9ms
+2019-11-21 17:26:53,234 INFO 12635 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:26:53,276 INFO 12635 [egg-multipart] stream mode enable
+2019-11-21 17:26:53,331 INFO 12635 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:26:53,334 INFO 12635 [egg-security] use csrf middleware
+2019-11-21 17:26:53,334 INFO 12635 [egg-security] use methodnoallow middleware
+2019-11-21 17:26:53,335 INFO 12635 [egg-security] use noopen middleware
+2019-11-21 17:26:53,335 INFO 12635 [egg-security] use nosniff middleware
+2019-11-21 17:26:53,335 INFO 12635 [egg-security] use xssProtection middleware
+2019-11-21 17:26:53,336 INFO 12635 [egg-security] use xframe middleware
+2019-11-21 17:26:53,336 INFO 12635 [egg-security] use dta middleware
+2019-11-21 17:26:53,336 INFO 12635 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:26:53,360 INFO 12635 [egg:core] dump config after load, 15ms
+2019-11-21 17:26:53,400 INFO 12635 [egg-watcher:application] watcher start success
+2019-11-21 17:26:53,417 INFO 12635 [egg:core] dump config after ready, 12ms
+2019-11-21 17:27:04,092 INFO 12663 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:27:04,122 INFO 12663 [egg-multipart] stream mode enable
+2019-11-21 17:27:04,161 INFO 12663 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:27:04,164 INFO 12663 [egg-security] use csrf middleware
+2019-11-21 17:27:04,164 INFO 12663 [egg-security] use methodnoallow middleware
+2019-11-21 17:27:04,165 INFO 12663 [egg-security] use noopen middleware
+2019-11-21 17:27:04,165 INFO 12663 [egg-security] use nosniff middleware
+2019-11-21 17:27:04,165 INFO 12663 [egg-security] use xssProtection middleware
+2019-11-21 17:27:04,166 INFO 12663 [egg-security] use xframe middleware
+2019-11-21 17:27:04,166 INFO 12663 [egg-security] use dta middleware
+2019-11-21 17:27:04,166 INFO 12663 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:27:04,193 INFO 12663 [egg:core] dump config after load, 19ms
+2019-11-21 17:27:04,236 INFO 12663 [egg-watcher:application] watcher start success
+2019-11-21 17:27:04,244 INFO 12663 [egg:core] dump config after ready, 6ms
+2019-11-21 17:32:06,022 INFO 12821 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:32:06,066 INFO 12821 [egg-multipart] stream mode enable
+2019-11-21 17:32:06,114 INFO 12821 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:32:06,117 INFO 12821 [egg-security] use csrf middleware
+2019-11-21 17:32:06,117 INFO 12821 [egg-security] use methodnoallow middleware
+2019-11-21 17:32:06,117 INFO 12821 [egg-security] use noopen middleware
+2019-11-21 17:32:06,118 INFO 12821 [egg-security] use nosniff middleware
+2019-11-21 17:32:06,118 INFO 12821 [egg-security] use xssProtection middleware
+2019-11-21 17:32:06,118 INFO 12821 [egg-security] use xframe middleware
+2019-11-21 17:32:06,119 INFO 12821 [egg-security] use dta middleware
+2019-11-21 17:32:06,119 INFO 12821 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:32:06,151 INFO 12821 [egg:core] dump config after load, 21ms
+2019-11-21 17:32:06,182 INFO 12821 [egg-watcher:application] watcher start success
+2019-11-21 17:32:06,193 INFO 12821 [egg:core] dump config after ready, 7ms
+2019-11-21 17:37:42,031 INFO 12990 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:37:42,066 INFO 12990 [egg-multipart] stream mode enable
+2019-11-21 17:37:42,146 INFO 12990 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:37:42,148 INFO 12990 [egg-security] use csrf middleware
+2019-11-21 17:37:42,149 INFO 12990 [egg-security] use methodnoallow middleware
+2019-11-21 17:37:42,150 INFO 12990 [egg-security] use noopen middleware
+2019-11-21 17:37:42,151 INFO 12990 [egg-security] use nosniff middleware
+2019-11-21 17:37:42,152 INFO 12990 [egg-security] use xssProtection middleware
+2019-11-21 17:37:42,153 INFO 12990 [egg-security] use xframe middleware
+2019-11-21 17:37:42,154 INFO 12990 [egg-security] use dta middleware
+2019-11-21 17:37:42,154 INFO 12990 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:37:42,174 INFO 12990 [egg:core] dump config after load, 10ms
+2019-11-21 17:37:42,200 INFO 12990 [egg-watcher:application] watcher start success
+2019-11-21 17:37:42,212 INFO 12990 [egg:core] dump config after ready, 6ms
+2019-11-21 17:38:03,563 INFO 13011 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:38:03,597 INFO 13011 [egg-multipart] stream mode enable
+2019-11-21 17:38:03,671 INFO 13011 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:38:03,674 INFO 13011 [egg-security] use csrf middleware
+2019-11-21 17:38:03,675 INFO 13011 [egg-security] use methodnoallow middleware
+2019-11-21 17:38:03,675 INFO 13011 [egg-security] use noopen middleware
+2019-11-21 17:38:03,676 INFO 13011 [egg-security] use nosniff middleware
+2019-11-21 17:38:03,677 INFO 13011 [egg-security] use xssProtection middleware
+2019-11-21 17:38:03,678 INFO 13011 [egg-security] use xframe middleware
+2019-11-21 17:38:03,679 INFO 13011 [egg-security] use dta middleware
+2019-11-21 17:38:03,679 INFO 13011 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:38:03,707 INFO 13011 [egg:core] dump config after load, 19ms
+2019-11-21 17:38:03,733 INFO 13011 [egg-watcher:application] watcher start success
+2019-11-21 17:38:03,744 INFO 13011 [egg:core] dump config after ready, 7ms
+2019-11-21 17:38:21,861 INFO 13049 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:38:21,890 INFO 13049 [egg-multipart] stream mode enable
+2019-11-21 17:38:21,937 INFO 13049 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:38:21,939 INFO 13049 [egg-security] use csrf middleware
+2019-11-21 17:38:21,940 INFO 13049 [egg-security] use methodnoallow middleware
+2019-11-21 17:38:21,940 INFO 13049 [egg-security] use noopen middleware
+2019-11-21 17:38:21,940 INFO 13049 [egg-security] use nosniff middleware
+2019-11-21 17:38:21,941 INFO 13049 [egg-security] use xssProtection middleware
+2019-11-21 17:38:21,943 INFO 13049 [egg-security] use xframe middleware
+2019-11-21 17:38:21,944 INFO 13049 [egg-security] use dta middleware
+2019-11-21 17:38:21,944 INFO 13049 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:38:21,962 INFO 13049 [egg:core] dump config after load, 9ms
+2019-11-21 17:38:21,998 INFO 13049 [egg-watcher:application] watcher start success
+2019-11-21 17:38:22,009 INFO 13049 [egg:core] dump config after ready, 8ms
+2019-11-21 17:38:30,115 INFO 13069 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:38:30,143 INFO 13069 [egg-multipart] stream mode enable
+2019-11-21 17:38:30,185 INFO 13069 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:38:30,187 INFO 13069 [egg-security] use csrf middleware
+2019-11-21 17:38:30,188 INFO 13069 [egg-security] use methodnoallow middleware
+2019-11-21 17:38:30,188 INFO 13069 [egg-security] use noopen middleware
+2019-11-21 17:38:30,189 INFO 13069 [egg-security] use nosniff middleware
+2019-11-21 17:38:30,189 INFO 13069 [egg-security] use xssProtection middleware
+2019-11-21 17:38:30,190 INFO 13069 [egg-security] use xframe middleware
+2019-11-21 17:38:30,190 INFO 13069 [egg-security] use dta middleware
+2019-11-21 17:38:30,190 INFO 13069 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:38:30,214 INFO 13069 [egg:core] dump config after load, 16ms
+2019-11-21 17:38:30,246 INFO 13069 [egg-watcher:application] watcher start success
+2019-11-21 17:38:30,257 INFO 13069 [egg:core] dump config after ready, 7ms
+2019-11-21 17:39:38,900 INFO 13122 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:39:38,933 INFO 13122 [egg-multipart] stream mode enable
+2019-11-21 17:39:39,004 INFO 13122 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:39:39,007 INFO 13122 [egg-security] use csrf middleware
+2019-11-21 17:39:39,008 INFO 13122 [egg-security] use methodnoallow middleware
+2019-11-21 17:39:39,008 INFO 13122 [egg-security] use noopen middleware
+2019-11-21 17:39:39,009 INFO 13122 [egg-security] use nosniff middleware
+2019-11-21 17:39:39,010 INFO 13122 [egg-security] use xssProtection middleware
+2019-11-21 17:39:39,011 INFO 13122 [egg-security] use xframe middleware
+2019-11-21 17:39:39,012 INFO 13122 [egg-security] use dta middleware
+2019-11-21 17:39:39,012 INFO 13122 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:39:39,032 INFO 13122 [egg:core] dump config after load, 10ms
+2019-11-21 17:39:39,055 INFO 13122 [egg-watcher:application] watcher start success
+2019-11-21 17:39:39,079 INFO 13122 [egg:core] dump config after ready, 18ms
+2019-11-21 17:39:59,727 INFO 13169 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:39:59,756 INFO 13169 [egg-multipart] stream mode enable
+2019-11-21 17:39:59,790 INFO 13169 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:39:59,793 INFO 13169 [egg-security] use csrf middleware
+2019-11-21 17:39:59,793 INFO 13169 [egg-security] use methodnoallow middleware
+2019-11-21 17:39:59,794 INFO 13169 [egg-security] use noopen middleware
+2019-11-21 17:39:59,794 INFO 13169 [egg-security] use nosniff middleware
+2019-11-21 17:39:59,795 INFO 13169 [egg-security] use xssProtection middleware
+2019-11-21 17:39:59,795 INFO 13169 [egg-security] use xframe middleware
+2019-11-21 17:39:59,795 INFO 13169 [egg-security] use dta middleware
+2019-11-21 17:39:59,795 INFO 13169 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:39:59,820 INFO 13169 [egg:core] dump config after load, 18ms
+2019-11-21 17:39:59,853 INFO 13169 [egg-watcher:application] watcher start success
+2019-11-21 17:39:59,865 INFO 13169 [egg:core] dump config after ready, 8ms
+2019-11-21 17:40:15,612 ERROR 13169 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13169
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:43:23,286 INFO 13255 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:43:23,315 INFO 13255 [egg-multipart] stream mode enable
+2019-11-21 17:43:23,389 INFO 13255 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:43:23,392 INFO 13255 [egg-security] use csrf middleware
+2019-11-21 17:43:23,393 INFO 13255 [egg-security] use methodnoallow middleware
+2019-11-21 17:43:23,394 INFO 13255 [egg-security] use noopen middleware
+2019-11-21 17:43:23,395 INFO 13255 [egg-security] use nosniff middleware
+2019-11-21 17:43:23,396 INFO 13255 [egg-security] use xssProtection middleware
+2019-11-21 17:43:23,396 INFO 13255 [egg-security] use xframe middleware
+2019-11-21 17:43:23,397 INFO 13255 [egg-security] use dta middleware
+2019-11-21 17:43:23,397 INFO 13255 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:43:23,418 INFO 13255 [egg:core] dump config after load, 12ms
+2019-11-21 17:43:23,451 INFO 13255 [egg-watcher:application] watcher start success
+2019-11-21 17:43:23,465 INFO 13255 [egg:core] dump config after ready, 7ms
+2019-11-21 17:46:25,737 INFO 13328 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:46:25,776 INFO 13328 [egg-multipart] stream mode enable
+2019-11-21 17:46:25,859 INFO 13328 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:46:25,862 INFO 13328 [egg-security] use csrf middleware
+2019-11-21 17:46:25,863 INFO 13328 [egg-security] use methodnoallow middleware
+2019-11-21 17:46:25,864 INFO 13328 [egg-security] use noopen middleware
+2019-11-21 17:46:25,865 INFO 13328 [egg-security] use nosniff middleware
+2019-11-21 17:46:25,866 INFO 13328 [egg-security] use xssProtection middleware
+2019-11-21 17:46:25,866 INFO 13328 [egg-security] use xframe middleware
+2019-11-21 17:46:25,867 INFO 13328 [egg-security] use dta middleware
+2019-11-21 17:46:25,867 INFO 13328 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:46:25,887 INFO 13328 [egg:core] dump config after load, 11ms
+2019-11-21 17:46:25,913 INFO 13328 [egg-watcher:application] watcher start success
+2019-11-21 17:46:25,941 INFO 13328 [egg:core] dump config after ready, 19ms
+2019-11-21 17:46:37,794 INFO 13366 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:46:37,835 INFO 13366 [egg-multipart] stream mode enable
+2019-11-21 17:46:37,889 INFO 13366 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:46:37,892 INFO 13366 [egg-security] use csrf middleware
+2019-11-21 17:46:37,893 INFO 13366 [egg-security] use methodnoallow middleware
+2019-11-21 17:46:37,893 INFO 13366 [egg-security] use noopen middleware
+2019-11-21 17:46:37,894 INFO 13366 [egg-security] use nosniff middleware
+2019-11-21 17:46:37,894 INFO 13366 [egg-security] use xssProtection middleware
+2019-11-21 17:46:37,895 INFO 13366 [egg-security] use xframe middleware
+2019-11-21 17:46:37,895 INFO 13366 [egg-security] use dta middleware
+2019-11-21 17:46:37,895 INFO 13366 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:46:37,929 INFO 13366 [egg:core] dump config after load, 21ms
+2019-11-21 17:46:38,007 INFO 13366 [egg-watcher:application] watcher start success
+2019-11-21 17:46:38,041 INFO 13366 [egg:core] dump config after ready, 7ms
+2019-11-21 17:48:13,413 INFO 13423 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:48:13,451 INFO 13423 [egg-multipart] stream mode enable
+2019-11-21 17:48:13,535 INFO 13423 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:48:13,538 INFO 13423 [egg-security] use csrf middleware
+2019-11-21 17:48:13,539 INFO 13423 [egg-security] use methodnoallow middleware
+2019-11-21 17:48:13,539 INFO 13423 [egg-security] use noopen middleware
+2019-11-21 17:48:13,540 INFO 13423 [egg-security] use nosniff middleware
+2019-11-21 17:48:13,541 INFO 13423 [egg-security] use xssProtection middleware
+2019-11-21 17:48:13,542 INFO 13423 [egg-security] use xframe middleware
+2019-11-21 17:48:13,543 INFO 13423 [egg-security] use dta middleware
+2019-11-21 17:48:13,543 INFO 13423 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:48:13,563 INFO 13423 [egg:core] dump config after load, 10ms
+2019-11-21 17:48:13,596 INFO 13423 [egg-watcher:application] watcher start success
+2019-11-21 17:48:13,628 INFO 13423 [egg:core] dump config after ready, 26ms
+2019-11-21 17:48:25,746 INFO 13462 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:48:25,777 INFO 13462 [egg-multipart] stream mode enable
+2019-11-21 17:48:25,815 INFO 13462 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:48:25,818 INFO 13462 [egg-security] use csrf middleware
+2019-11-21 17:48:25,818 INFO 13462 [egg-security] use methodnoallow middleware
+2019-11-21 17:48:25,819 INFO 13462 [egg-security] use noopen middleware
+2019-11-21 17:48:25,819 INFO 13462 [egg-security] use nosniff middleware
+2019-11-21 17:48:25,819 INFO 13462 [egg-security] use xssProtection middleware
+2019-11-21 17:48:25,820 INFO 13462 [egg-security] use xframe middleware
+2019-11-21 17:48:25,820 INFO 13462 [egg-security] use dta middleware
+2019-11-21 17:48:25,820 INFO 13462 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:48:25,849 INFO 13462 [egg:core] dump config after load, 20ms
+2019-11-21 17:48:25,896 INFO 13462 [egg-watcher:application] watcher start success
+2019-11-21 17:48:25,924 INFO 13462 [egg:core] dump config after ready, 24ms
+2019-11-21 17:49:10,952 INFO 13505 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:49:10,990 INFO 13505 [egg-multipart] stream mode enable
+2019-11-21 17:49:11,132 INFO 13505 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:49:11,135 INFO 13505 [egg-security] use csrf middleware
+2019-11-21 17:49:11,137 INFO 13505 [egg-security] use methodnoallow middleware
+2019-11-21 17:49:11,145 INFO 13505 [egg-security] use noopen middleware
+2019-11-21 17:49:11,146 INFO 13505 [egg-security] use nosniff middleware
+2019-11-21 17:49:11,147 INFO 13505 [egg-security] use xssProtection middleware
+2019-11-21 17:49:11,148 INFO 13505 [egg-security] use xframe middleware
+2019-11-21 17:49:11,150 INFO 13505 [egg-security] use dta middleware
+2019-11-21 17:49:11,151 INFO 13505 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:49:11,184 INFO 13505 [egg:core] dump config after load, 17ms
+2019-11-21 17:49:11,223 INFO 13505 [egg-watcher:application] watcher start success
+2019-11-21 17:49:11,244 INFO 13505 [egg:core] dump config after ready, 16ms
+2019-11-21 17:55:30,720 INFO 13600 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:55:30,749 INFO 13600 [egg-multipart] stream mode enable
+2019-11-21 17:55:30,828 INFO 13600 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:55:30,831 INFO 13600 [egg-security] use csrf middleware
+2019-11-21 17:55:30,832 INFO 13600 [egg-security] use methodnoallow middleware
+2019-11-21 17:55:30,833 INFO 13600 [egg-security] use noopen middleware
+2019-11-21 17:55:30,834 INFO 13600 [egg-security] use nosniff middleware
+2019-11-21 17:55:30,835 INFO 13600 [egg-security] use xssProtection middleware
+2019-11-21 17:55:30,835 INFO 13600 [egg-security] use xframe middleware
+2019-11-21 17:55:30,836 INFO 13600 [egg-security] use dta middleware
+2019-11-21 17:55:30,836 INFO 13600 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:55:30,858 INFO 13600 [egg:core] dump config after load, 11ms
+2019-11-21 17:55:30,901 INFO 13600 [egg-watcher:application] watcher start success
+2019-11-21 17:55:30,916 INFO 13600 [egg:core] dump config after ready, 11ms
+2019-11-21 17:55:49,492 ERROR 13600 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13600
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:56:04,717 ERROR 13600 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13600
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:56:10,889 ERROR 13600 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 13600
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 17:59:05,495 INFO 13661 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:59:05,531 INFO 13661 [egg-multipart] stream mode enable
+2019-11-21 17:59:05,609 INFO 13661 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:59:05,612 INFO 13661 [egg-security] use csrf middleware
+2019-11-21 17:59:05,613 INFO 13661 [egg-security] use methodnoallow middleware
+2019-11-21 17:59:05,614 INFO 13661 [egg-security] use noopen middleware
+2019-11-21 17:59:05,615 INFO 13661 [egg-security] use nosniff middleware
+2019-11-21 17:59:05,616 INFO 13661 [egg-security] use xssProtection middleware
+2019-11-21 17:59:05,617 INFO 13661 [egg-security] use xframe middleware
+2019-11-21 17:59:05,618 INFO 13661 [egg-security] use dta middleware
+2019-11-21 17:59:05,618 INFO 13661 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:59:05,652 INFO 13661 [egg:core] dump config after load, 20ms
+2019-11-21 17:59:05,684 INFO 13661 [egg-watcher:application] watcher start success
+2019-11-21 17:59:05,713 INFO 13661 [egg:core] dump config after ready, 23ms
+2019-11-21 17:59:28,460 INFO 13681 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 17:59:28,495 INFO 13681 [egg-multipart] stream mode enable
+2019-11-21 17:59:28,554 INFO 13681 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 17:59:28,557 INFO 13681 [egg-security] use csrf middleware
+2019-11-21 17:59:28,557 INFO 13681 [egg-security] use methodnoallow middleware
+2019-11-21 17:59:28,558 INFO 13681 [egg-security] use noopen middleware
+2019-11-21 17:59:28,558 INFO 13681 [egg-security] use nosniff middleware
+2019-11-21 17:59:28,558 INFO 13681 [egg-security] use xssProtection middleware
+2019-11-21 17:59:28,559 INFO 13681 [egg-security] use xframe middleware
+2019-11-21 17:59:28,559 INFO 13681 [egg-security] use dta middleware
+2019-11-21 17:59:28,559 INFO 13681 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 17:59:28,580 INFO 13681 [egg:core] dump config after load, 10ms
+2019-11-21 17:59:28,617 INFO 13681 [egg-watcher:application] watcher start success
+2019-11-21 17:59:28,630 INFO 13681 [egg:core] dump config after ready, 8ms
+2019-11-21 18:00:31,225 INFO 13759 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:00:31,258 INFO 13759 [egg-multipart] stream mode enable
+2019-11-21 18:00:31,335 INFO 13759 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:00:31,338 INFO 13759 [egg-security] use csrf middleware
+2019-11-21 18:00:31,339 INFO 13759 [egg-security] use methodnoallow middleware
+2019-11-21 18:00:31,340 INFO 13759 [egg-security] use noopen middleware
+2019-11-21 18:00:31,341 INFO 13759 [egg-security] use nosniff middleware
+2019-11-21 18:00:31,342 INFO 13759 [egg-security] use xssProtection middleware
+2019-11-21 18:00:31,343 INFO 13759 [egg-security] use xframe middleware
+2019-11-21 18:00:31,343 INFO 13759 [egg-security] use dta middleware
+2019-11-21 18:00:31,343 INFO 13759 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:00:31,363 INFO 13759 [egg:core] dump config after load, 9ms
+2019-11-21 18:00:31,403 INFO 13759 [egg-watcher:application] watcher start success
+2019-11-21 18:00:31,421 INFO 13759 [egg:core] dump config after ready, 13ms
+2019-11-21 18:01:31,431 INFO 13852 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:01:31,460 INFO 13852 [egg-multipart] stream mode enable
+2019-11-21 18:01:31,543 INFO 13852 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:01:31,546 INFO 13852 [egg-security] use csrf middleware
+2019-11-21 18:01:31,547 INFO 13852 [egg-security] use methodnoallow middleware
+2019-11-21 18:01:31,547 INFO 13852 [egg-security] use noopen middleware
+2019-11-21 18:01:31,548 INFO 13852 [egg-security] use nosniff middleware
+2019-11-21 18:01:31,549 INFO 13852 [egg-security] use xssProtection middleware
+2019-11-21 18:01:31,550 INFO 13852 [egg-security] use xframe middleware
+2019-11-21 18:01:31,550 INFO 13852 [egg-security] use dta middleware
+2019-11-21 18:01:31,550 INFO 13852 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:01:31,567 INFO 13852 [egg:core] dump config after load, 7ms
+2019-11-21 18:01:31,599 INFO 13852 [egg-watcher:application] watcher start success
+2019-11-21 18:01:31,632 INFO 13852 [egg:core] dump config after ready, 24ms
+2019-11-21 18:06:13,043 INFO 14023 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:06:13,087 INFO 14023 [egg-multipart] stream mode enable
+2019-11-21 18:06:13,171 INFO 14023 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:06:13,175 INFO 14023 [egg-security] use csrf middleware
+2019-11-21 18:06:13,176 INFO 14023 [egg-security] use methodnoallow middleware
+2019-11-21 18:06:13,176 INFO 14023 [egg-security] use noopen middleware
+2019-11-21 18:06:13,177 INFO 14023 [egg-security] use nosniff middleware
+2019-11-21 18:06:13,178 INFO 14023 [egg-security] use xssProtection middleware
+2019-11-21 18:06:13,179 INFO 14023 [egg-security] use xframe middleware
+2019-11-21 18:06:13,180 INFO 14023 [egg-security] use dta middleware
+2019-11-21 18:06:13,180 INFO 14023 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:06:13,205 INFO 14023 [egg:core] dump config after load, 14ms
+2019-11-21 18:06:13,242 INFO 14023 [egg-watcher:application] watcher start success
+2019-11-21 18:06:13,258 INFO 14023 [egg:core] dump config after ready, 9ms
+2019-11-21 18:06:46,827 INFO 14046 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:06:46,864 INFO 14046 [egg-multipart] stream mode enable
+2019-11-21 18:06:46,939 INFO 14046 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:06:46,941 INFO 14046 [egg-security] use csrf middleware
+2019-11-21 18:06:46,942 INFO 14046 [egg-security] use methodnoallow middleware
+2019-11-21 18:06:46,943 INFO 14046 [egg-security] use noopen middleware
+2019-11-21 18:06:46,944 INFO 14046 [egg-security] use nosniff middleware
+2019-11-21 18:06:46,945 INFO 14046 [egg-security] use xssProtection middleware
+2019-11-21 18:06:46,946 INFO 14046 [egg-security] use xframe middleware
+2019-11-21 18:06:46,946 INFO 14046 [egg-security] use dta middleware
+2019-11-21 18:06:46,946 INFO 14046 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:06:46,968 INFO 14046 [egg:core] dump config after load, 12ms
+2019-11-21 18:06:46,987 INFO 14046 [egg-watcher:application] watcher start success
+2019-11-21 18:06:47,002 INFO 14046 [egg:core] dump config after ready, 10ms
+2019-11-21 18:06:50,113 ERROR 14046 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14046
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:14:48,020 ERROR 14046 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14046
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:33:06,439 INFO 14469 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:33:06,469 INFO 14469 [egg-multipart] stream mode enable
+2019-11-21 18:33:06,552 INFO 14469 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:33:06,555 INFO 14469 [egg-security] use csrf middleware
+2019-11-21 18:33:06,556 INFO 14469 [egg-security] use methodnoallow middleware
+2019-11-21 18:33:06,557 INFO 14469 [egg-security] use noopen middleware
+2019-11-21 18:33:06,558 INFO 14469 [egg-security] use nosniff middleware
+2019-11-21 18:33:06,559 INFO 14469 [egg-security] use xssProtection middleware
+2019-11-21 18:33:06,559 INFO 14469 [egg-security] use xframe middleware
+2019-11-21 18:33:06,560 INFO 14469 [egg-security] use dta middleware
+2019-11-21 18:33:06,560 INFO 14469 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:33:06,595 INFO 14469 [egg:core] dump config after load, 18ms
+2019-11-21 18:33:06,645 INFO 14469 [egg-watcher:application] watcher start success
+2019-11-21 18:33:06,661 INFO 14469 [egg:core] dump config after ready, 10ms
+2019-11-21 18:33:25,601 ERROR 14469 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14469
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:34:23,123 INFO 14526 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:34:23,159 INFO 14526 [egg-multipart] stream mode enable
+2019-11-21 18:34:23,235 INFO 14526 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:34:23,238 INFO 14526 [egg-security] use csrf middleware
+2019-11-21 18:34:23,239 INFO 14526 [egg-security] use methodnoallow middleware
+2019-11-21 18:34:23,239 INFO 14526 [egg-security] use noopen middleware
+2019-11-21 18:34:23,240 INFO 14526 [egg-security] use nosniff middleware
+2019-11-21 18:34:23,241 INFO 14526 [egg-security] use xssProtection middleware
+2019-11-21 18:34:23,242 INFO 14526 [egg-security] use xframe middleware
+2019-11-21 18:34:23,242 INFO 14526 [egg-security] use dta middleware
+2019-11-21 18:34:23,242 INFO 14526 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:34:23,267 INFO 14526 [egg:core] dump config after load, 12ms
+2019-11-21 18:34:23,294 INFO 14526 [egg-watcher:application] watcher start success
+2019-11-21 18:34:23,323 INFO 14526 [egg:core] dump config after ready, 24ms
+2019-11-21 18:34:24,774 ERROR 14526 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14526
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:34:42,225 INFO 14576 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:34:42,259 INFO 14576 [egg-multipart] stream mode enable
+2019-11-21 18:34:42,299 INFO 14576 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:34:42,302 INFO 14576 [egg-security] use csrf middleware
+2019-11-21 18:34:42,303 INFO 14576 [egg-security] use methodnoallow middleware
+2019-11-21 18:34:42,303 INFO 14576 [egg-security] use noopen middleware
+2019-11-21 18:34:42,304 INFO 14576 [egg-security] use nosniff middleware
+2019-11-21 18:34:42,304 INFO 14576 [egg-security] use xssProtection middleware
+2019-11-21 18:34:42,304 INFO 14576 [egg-security] use xframe middleware
+2019-11-21 18:34:42,305 INFO 14576 [egg-security] use dta middleware
+2019-11-21 18:34:42,305 INFO 14576 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:34:42,448 INFO 14576 [egg:core] dump config after load, 133ms
+2019-11-21 18:34:42,565 INFO 14576 [egg-watcher:application] watcher start success
+2019-11-21 18:34:42,593 INFO 14576 [egg:core] dump config after ready, 15ms
+2019-11-21 18:35:10,086 ERROR 14576 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14576
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:35:35,953 INFO 14650 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:35:35,992 INFO 14650 [egg-multipart] stream mode enable
+2019-11-21 18:35:36,068 INFO 14650 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:35:36,071 INFO 14650 [egg-security] use csrf middleware
+2019-11-21 18:35:36,072 INFO 14650 [egg-security] use methodnoallow middleware
+2019-11-21 18:35:36,073 INFO 14650 [egg-security] use noopen middleware
+2019-11-21 18:35:36,074 INFO 14650 [egg-security] use nosniff middleware
+2019-11-21 18:35:36,074 INFO 14650 [egg-security] use xssProtection middleware
+2019-11-21 18:35:36,075 INFO 14650 [egg-security] use xframe middleware
+2019-11-21 18:35:36,076 INFO 14650 [egg-security] use dta middleware
+2019-11-21 18:35:36,076 INFO 14650 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:35:36,099 INFO 14650 [egg:core] dump config after load, 13ms
+2019-11-21 18:35:36,126 INFO 14650 [egg-watcher:application] watcher start success
+2019-11-21 18:35:36,147 INFO 14650 [egg:core] dump config after ready, 16ms
+2019-11-21 18:35:38,873 INFO 14662 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:35:38,910 INFO 14662 [egg-multipart] stream mode enable
+2019-11-21 18:35:38,946 INFO 14662 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:35:38,949 INFO 14662 [egg-security] use csrf middleware
+2019-11-21 18:35:38,949 INFO 14662 [egg-security] use methodnoallow middleware
+2019-11-21 18:35:38,949 INFO 14662 [egg-security] use noopen middleware
+2019-11-21 18:35:38,950 INFO 14662 [egg-security] use nosniff middleware
+2019-11-21 18:35:38,950 INFO 14662 [egg-security] use xssProtection middleware
+2019-11-21 18:35:38,950 INFO 14662 [egg-security] use xframe middleware
+2019-11-21 18:35:38,951 INFO 14662 [egg-security] use dta middleware
+2019-11-21 18:35:38,951 INFO 14662 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:35:38,976 INFO 14662 [egg:core] dump config after load, 18ms
+2019-11-21 18:35:39,008 INFO 14662 [egg-watcher:application] watcher start success
+2019-11-21 18:35:39,035 INFO 14662 [egg:core] dump config after ready, 24ms
+2019-11-21 18:35:44,113 ERROR 14662 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14662
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:37:26,451 INFO 14693 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:37:26,484 INFO 14693 [egg-multipart] stream mode enable
+2019-11-21 18:37:26,556 INFO 14693 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:37:26,559 INFO 14693 [egg-security] use csrf middleware
+2019-11-21 18:37:26,560 INFO 14693 [egg-security] use methodnoallow middleware
+2019-11-21 18:37:26,560 INFO 14693 [egg-security] use noopen middleware
+2019-11-21 18:37:26,561 INFO 14693 [egg-security] use nosniff middleware
+2019-11-21 18:37:26,562 INFO 14693 [egg-security] use xssProtection middleware
+2019-11-21 18:37:26,563 INFO 14693 [egg-security] use xframe middleware
+2019-11-21 18:37:26,563 INFO 14693 [egg-security] use dta middleware
+2019-11-21 18:37:26,564 INFO 14693 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:37:26,583 INFO 14693 [egg:core] dump config after load, 10ms
+2019-11-21 18:37:26,614 INFO 14693 [egg-watcher:application] watcher start success
+2019-11-21 18:37:26,639 INFO 14693 [egg:core] dump config after ready, 21ms
+2019-11-21 18:38:00,698 INFO 14714 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:38:00,766 INFO 14714 [egg-multipart] stream mode enable
+2019-11-21 18:38:00,891 INFO 14714 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:38:00,900 INFO 14714 [egg-security] use csrf middleware
+2019-11-21 18:38:00,902 INFO 14714 [egg-security] use methodnoallow middleware
+2019-11-21 18:38:00,903 INFO 14714 [egg-security] use noopen middleware
+2019-11-21 18:38:00,903 INFO 14714 [egg-security] use nosniff middleware
+2019-11-21 18:38:00,904 INFO 14714 [egg-security] use xssProtection middleware
+2019-11-21 18:38:00,904 INFO 14714 [egg-security] use xframe middleware
+2019-11-21 18:38:00,904 INFO 14714 [egg-security] use dta middleware
+2019-11-21 18:38:00,904 INFO 14714 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:38:00,957 INFO 14714 [egg:core] dump config after load, 23ms
+2019-11-21 18:38:01,007 INFO 14714 [egg-watcher:application] watcher start success
+2019-11-21 18:38:01,018 INFO 14714 [egg:core] dump config after ready, 7ms
+2019-11-21 18:38:04,260 ERROR 14714 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14714
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:38:11,742 INFO 14732 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:38:11,779 INFO 14732 [egg-multipart] stream mode enable
+2019-11-21 18:38:11,849 INFO 14732 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:38:11,853 INFO 14732 [egg-security] use csrf middleware
+2019-11-21 18:38:11,853 INFO 14732 [egg-security] use methodnoallow middleware
+2019-11-21 18:38:11,854 INFO 14732 [egg-security] use noopen middleware
+2019-11-21 18:38:11,854 INFO 14732 [egg-security] use nosniff middleware
+2019-11-21 18:38:11,854 INFO 14732 [egg-security] use xssProtection middleware
+2019-11-21 18:38:11,855 INFO 14732 [egg-security] use xframe middleware
+2019-11-21 18:38:11,855 INFO 14732 [egg-security] use dta middleware
+2019-11-21 18:38:11,855 INFO 14732 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:38:11,882 INFO 14732 [egg:core] dump config after load, 20ms
+2019-11-21 18:38:11,927 INFO 14732 [egg-watcher:application] watcher start success
+2019-11-21 18:38:11,946 INFO 14732 [egg:core] dump config after ready, 16ms
+2019-11-21 18:38:15,044 ERROR 14732 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14732
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-21 18:38:25,715 INFO 14750 [egg:logger] init all loggers with options: {"dir":"/Users/hsx/One-Social-H5/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-webpack-mpa-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-21 18:38:25,778 INFO 14750 [egg-multipart] stream mode enable
+2019-11-21 18:38:25,897 INFO 14750 [egg-static] starting static serve /public/ -> /Users/hsx/One-Social-H5/public
+2019-11-21 18:38:25,900 INFO 14750 [egg-security] use csrf middleware
+2019-11-21 18:38:25,901 INFO 14750 [egg-security] use methodnoallow middleware
+2019-11-21 18:38:25,902 INFO 14750 [egg-security] use noopen middleware
+2019-11-21 18:38:25,903 INFO 14750 [egg-security] use nosniff middleware
+2019-11-21 18:38:25,904 INFO 14750 [egg-security] use xssProtection middleware
+2019-11-21 18:38:25,905 INFO 14750 [egg-security] use xframe middleware
+2019-11-21 18:38:25,909 INFO 14750 [egg-security] use dta middleware
+2019-11-21 18:38:25,909 INFO 14750 [egg-security] compose 7 middlewares into one security middleware
+2019-11-21 18:38:25,955 INFO 14750 [egg:core] dump config after load, 21ms
+2019-11-21 18:38:26,048 INFO 14750 [egg-watcher:application] watcher start success
+2019-11-21 18:38:26,127 INFO 14750 [egg:core] dump config after ready, 57ms
+2019-11-21 18:38:30,165 ERROR 14750 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/One-Social-H5/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/One-Social-H5/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 14750
+hostname: hsxdeMacBook-Pro-2.local
+

@@ -1,0 +1,57 @@
+{
+  "chunk/0.js": "/public/js/chunk/0.js",
+  "chunk/1.js": "/public/js/chunk/1.js",
+  "common.js": "/public/js/chunk/common.js",
+  "demoSpa/index.js": "/public/js/chunk/demoSpa/index.js",
+  "demoSpa/view/detail.js": "/public/js/chunk/demoSpa/view/detail.js",
+  "demoSpa/view/list.js": "/public/js/chunk/demoSpa/view/list.js",
+  "home/index.js": "/public/js/chunk/home/index.js",
+  "runtime.js": "/public/js/runtime.js",
+  "font/element-icons.ttf": "/public/font/element-icons.ttf",
+  "font/element-icons.woff": "/public/font/element-icons.woff",
+  "img/loading.gif": "/public/img/loading.gif",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "demoSpa/index.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/demoSpa/index.js"
+      ],
+      "css": []
+    },
+    "demoSpa/view/detail.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/demoSpa/view/detail.js"
+      ],
+      "css": []
+    },
+    "demoSpa/view/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/demoSpa/view/list.js"
+      ],
+      "css": []
+    },
+    "home/index.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/home/index.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}
