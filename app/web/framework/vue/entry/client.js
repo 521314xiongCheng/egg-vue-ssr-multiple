@@ -6,11 +6,10 @@ import '../component';
 export default function(options) {
   Vue.prototype.$http = require('axios');
   if (options.store) {
-    options.store.replaceState(Object.assign({}, window.__INITIAL_STATE__, options.store.state));
+    options.store.replaceState(Object.assign({}, options.store.state, window.__INITIAL_STATE__));
   } else if (window.__INITIAL_STATE__) {
     options.data = Object.assign(window.__INITIAL_STATE__, options.data && options.data());
   }
-  console.log(options)
   const app = new Vue(options);
   app.$mount('#app');
 }

@@ -13,13 +13,13 @@ export default function render(options) {
       }
       return Promise.all(
         matchedComponents.map(component => {
-          if (component.preFetch) {
-            return component.preFetch(options.store);
+          if (component.methods && component.methods.fetchApi) {
+            return component.methods.fetchApi(options.store);
           }
           return null;
         })
       ).then(() => {
-        context.state = Object.assign(options.store.state, context.state);
+        context.state = Object.assign(options.store.state, context.state)
         return new Vue(options);
       });
     };

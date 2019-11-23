@@ -204,3 +204,189 @@ hostname: hsxdeMacBook-Pro-2.local
 pid: 14750
 hostname: hsxdeMacBook-Pro-2.local
 
+2019-11-22 10:06:11,174 ERROR 2044 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 2044
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-22 10:06:20,161 ERROR 2044 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 2044
+hostname: hsxdeMacBook-Pro-2.local
+
+2019-11-23 22:00:22,552 ERROR 564 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 564
+hostname: hsxdeMBP-2.lan
+
+2019-11-23 22:03:24,423 ERROR 876 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 876
+hostname: hsxdeMBP-2.lan
+
+2019-11-23 22:05:15,368 ERROR 876 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 876
+hostname: hsxdeMBP-2.lan
+
+2019-11-23 22:11:24,062 ERROR 876 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 876
+hostname: hsxdeMBP-2.lan
+
+2019-11-23 22:11:41,213 ERROR 876 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 876
+hostname: hsxdeMBP-2.lan
+
+2019-11-23 22:12:08,524 ERROR 876 nodejs.TypeError: Cannot read property '_normalized' of undefined
+    at normalizeLocation (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:946:12)
+    at Object.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:1456:20)
+    at VueRouter.match (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2696:23)
+    at AbstractHistory.transitionTo (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2035:27)
+    at AbstractHistory.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2589:10)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2781:22
+    at new Promise (<anonymous>)
+    at VueRouter.push (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-router/dist/vue-router.common.js:2780:12)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:17:22)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+
+pid: 876
+hostname: hsxdeMBP-2.lan
+
+2019-11-23 22:16:31,310 ERROR 1203 [demoSpa/view/list.js] server render bundle error, try client render, the server render error TypeError: Cannot read property 'state' of undefined
+    at VueComponent.lists (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/thread-loader/dist/cjs.js??ref--0-0!./node_modules/babel-loader/lib??ref--0-1!./node_modules/vue-loader/lib??vue-loader-options:10:26)
+    at VueComponent.computedGetter [as lists] (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:4825:15)
+    at Object.get (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:2068:20)
+    at Proxy.render (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options:15:20)
+    at VueComponent.Vue._render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:3532:22)
+    at resolve (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8641:28)
+    at waitForServerPrefetch (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8272:3)
+    at render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8643:5)
+    at Object.renderToString (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9168:9)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9534:22
+2019-11-23 22:17:57,055 ERROR 1203 [demoSpa/view/list.js] server render bundle error, try client render, the server render error TypeError: Cannot read property 'state' of undefined
+    at VueComponent.lists (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/thread-loader/dist/cjs.js??ref--0-0!./node_modules/babel-loader/lib??ref--0-1!./node_modules/vue-loader/lib??vue-loader-options:10:26)
+    at VueComponent.computedGetter [as lists] (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:4825:15)
+    at Object.get (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:2068:20)
+    at Proxy.render (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options:15:20)
+    at VueComponent.Vue._render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:3532:22)
+    at resolve (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8641:28)
+    at waitForServerPrefetch (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8272:3)
+    at render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8643:5)
+    at Object.renderToString (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9168:9)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9534:22
+2019-11-23 22:18:54,865 ERROR 1203 [demoSpa/view/list.js] server render bundle error, try client render, the server render error TypeError: Cannot read property 'state' of undefined
+    at VueComponent.lists (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/thread-loader/dist/cjs.js??ref--0-0!./node_modules/babel-loader/lib??ref--0-1!./node_modules/vue-loader/lib??vue-loader-options:10:26)
+    at VueComponent.computedGetter [as lists] (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:4825:15)
+    at Object.get (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:2068:20)
+    at Proxy.render (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options:15:20)
+    at VueComponent.Vue._render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:3532:22)
+    at resolve (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8641:28)
+    at waitForServerPrefetch (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8272:3)
+    at render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8643:5)
+    at Object.renderToString (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9168:9)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9534:22
+2019-11-23 22:21:22,909 ERROR 1346 [demoSpa/view/list.js] server render bundle error, try client render, the server render error TypeError: Cannot read property 'state' of undefined
+    at VueComponent.lists (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/thread-loader/dist/cjs.js??ref--0-0!./node_modules/babel-loader/lib??ref--0-1!./node_modules/vue-loader/lib??vue-loader-options:10:26)
+    at VueComponent.computedGetter [as lists] (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:4825:15)
+    at Object.get (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:2068:20)
+    at Proxy.render (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options:15:20)
+    at VueComponent.Vue._render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:3532:22)
+    at resolve (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8641:28)
+    at waitForServerPrefetch (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8272:3)
+    at render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8643:5)
+    at Object.renderToString (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9168:9)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9534:22
+2019-11-23 22:22:09,118 ERROR 1402 [demoSpa/view/list.js] server render bundle error, try client render, the server render error TypeError: Cannot read property 'state' of undefined
+    at VueComponent.lists (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/thread-loader/dist/cjs.js??ref--0-0!./node_modules/babel-loader/lib??ref--0-1!./node_modules/vue-loader/lib??vue-loader-options:10:26)
+    at VueComponent.computedGetter [as lists] (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:4825:15)
+    at Object.get (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:2068:20)
+    at Proxy.render (webpack:///./app/web/page/demoSpa/view/list.vue?./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options:15:20)
+    at VueComponent.Vue._render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue/dist/vue.runtime.common.dev.js:3532:22)
+    at resolve (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8641:28)
+    at waitForServerPrefetch (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8272:3)
+    at render (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:8643:5)
+    at Object.renderToString (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9168:9)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9534:22
+2019-11-23 22:30:02,803 ERROR 1596 [demoSpa/index.js] server render bundle error, try client render, the server render error TypeError: Cannot read property 'fetchApi' of undefined
+    at Promise.all.matchedComponents.map.component (webpack:///./app/web/framework/vue/entry/server.js?:24:52)
+    at Array.map (<anonymous>)
+    at context (webpack:///./app/web/framework/vue/entry/server.js?:22:44)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9391:15
+    at new Promise (<anonymous>)
+    at /Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9353:14
+    at Object.renderToString (/Users/hsx/egg-vue-ssr-multiple/node_modules/vue-server-renderer/build.dev.js:9529:9)
+    at Promise (/Users/hsx/egg-vue-ssr-multiple/node_modules/egg-view-vue-ssr/lib/engine.js:123:62)
+    at new Promise (<anonymous>)
+    at Engine.render (/Users/hsx/egg-vue-ssr-multiple/node_modules/egg-view-vue-ssr/lib/engine.js:122:12)

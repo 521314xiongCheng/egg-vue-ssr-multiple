@@ -1,6 +1,6 @@
-import Vue from 'vue';
-
-import VueRouter from 'vue-router';
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+import List from '../view/list.vue'
 
 Vue.use(VueRouter);
 
@@ -11,11 +11,11 @@ export default function createRouter() {
     routes: [
       {
         path: '/list',
-        component: () => import('../view/list.vue')
+        component: List
       },
       {
         path: '/detail',
-        component: () => import('../view/detail.vue')
+        component: () => import('../view/detail.vue')//ssr页面不能使用懒加载方式加载
       }
     ]
   });

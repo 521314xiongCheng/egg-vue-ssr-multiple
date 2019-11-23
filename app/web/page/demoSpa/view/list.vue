@@ -1,7 +1,8 @@
 <template> 
   <div>
     <el-button @click="handle">点击</el-button>
-    <el-table
+    <!-- element el-table ssr有问题，只渲染了结构，内容没有显示 -->
+    <!-- <el-table
       :data="lists"
       :stripe="true"
       border
@@ -26,30 +27,36 @@
         align="center"
       >
       </el-table-column>
-    </el-table>
+    </el-table> -->
+    <el-row>
+      <div v-for="item in lists" :key="item.id">
+        <el-col :span="8">{{item.id}}</el-col>
+        <el-col :span="8">{{item.title}}</el-col>
+        <el-col :span="8">{{item.url}}</el-col>
+      </div>
+    </el-row>
   </div>
 </template>
 
 <script>
 import { mapGetters } from 'vuex';
 export default {
-  computed: {
-    lists(){
-      return this.$store.state.list
-    }
-  },
   methods: {
     fetchApi(store) {
       return store.dispatch('set_ListData');
     },
     handle(){
       this.$router.push('/detail')
-      // window.location = '/staff/detail'
     },
   },
   beforeMount() {
     if (!(this.lists &&this.lists.length>0) ){
-      // this.fetchApi(this.$store)
+      this.fetchApi(this.$store)
+    }
+  },
+  computed: {
+    lists(){
+      return this.$store.state.list
     }
   },
 }

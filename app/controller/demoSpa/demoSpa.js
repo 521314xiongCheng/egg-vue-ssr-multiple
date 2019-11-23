@@ -19,7 +19,8 @@ module.exports = app => {
       const { ctx, service } = this;
       let data = await service.demoSpa.getList()
       // ctx.body = data
-      await ctx.render('demoSpa/index.js', data);
+      const url = ctx.url.replace(/\/demoSpa/, '');
+      await ctx.render('demoSpa/index.js', { ctx, url });
     }
   };
 };

@@ -1,6 +1,5 @@
 {
   "chunk/0.js": "/public/js/chunk/0.js",
-  "chunk/1.js": "/public/js/chunk/1.js",
   "common.js": "/public/js/chunk/common.js",
   "demoSpa/index.js": "/public/js/chunk/demoSpa/index.js",
   "demoSpa/view/detail.js": "/public/js/chunk/demoSpa/view/detail.js",
